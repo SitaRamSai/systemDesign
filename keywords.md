@@ -1,5 +1,7 @@
 ## GeoHash
 
+  - Geo hashing is done by dividing the grid into 4 parts and give values 00 01 10 11, then select individual grid (Ex: 00) and divide it again into 4       - parts and continue numbering the values. 
+  - Every grid has it's own value which when hased gives us the 64bit representation value. 
 
 
 ## QuadTree
