@@ -27,4 +27,9 @@
         - Single message is taken by different services
         
  
+ ## Relational Databases
+ 
+  - ACID (Atomicity, Consistency, Isolation, Duarability) is guaranteed. 
+  - Best choice for read-heavy sytems.
+  - 
  
